@@ -1,0 +1,712 @@
+timeTag: 2
+tagNum: 0
+range: 0.8465
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.00461303363889
+  w: 0.999989359904
+timeTag: 4
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 6
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 8
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 10
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 12
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 14
+tagNum: 1
+range: 0.76944
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0938018951951
+  w: 0.995590882068
+timeTag: 16
+tagNum: 1
+range: 1.0628
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.202294208969
+  w: 0.979324794446
+timeTag: 18
+tagNum: 2
+range: 1.8757
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0123601852588
+  w: 0.999923609992
+timeTag: 20
+tagNum: 2
+range: 1.8757
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0123601852588
+  w: 0.999923609992
+timeTag: 22
+tagNum: 2
+range: 1.8757
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0123601852588
+  w: 0.999923609992
+timeTag: 24
+tagNum: 2
+range: 1.6367
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0222626605973
+  w: 0.999752156258
+timeTag: 26
+tagNum: 2
+range: 1.4492
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.177740584941
+  w: 0.984077377275
+timeTag: 28
+tagNum: 2
+range: 1.6712
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.248057918728
+  w: 0.96874520332
+timeTag: 30
+tagNum: 2
+range: 1.8529
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.221258727814
+  w: 0.975215143118
+timeTag: 32
+tagNum: 2
+range: 2.1205
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.131914390082
+  w: 0.99126111277
+timeTag: 34
+tagNum: 2
+range: 1.8859
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0570589931174
+  w: 0.99837080852
+timeTag: 36
+tagNum: 2
+range: 1.5943
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0338955061874
+  w: 0.999425382237
+timeTag: 38
+tagNum: 2
+range: 1.3355
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0608024736791
+  w: 0.998149818011
+timeTag: 40
+tagNum: 2
+range: 0.99518
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.250783950041
+  w: 0.968043082927
+timeTag: 42
+tagNum: 3
+range: 1.875
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.169650482728
+  w: 0.98550429411
+timeTag: 44
+tagNum: 3
+range: 1.875
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.169650482728
+  w: 0.98550429411
+timeTag: 46
+tagNum: 3
+range: 1.6043
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.15164271858
+  w: 0.988435372648
+timeTag: 48
+tagNum: 3
+range: 1.3009
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0332453728507
+  w: 0.999447219809
+timeTag: 50
+tagNum: 3
+range: 1.0315
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0135785827003
+  w: 0.999907806796
+timeTag: 52
+tagNum: 3
+range: 0.78695
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.00139084955158
+  w: 0.999999032768
+timeTag: 54
+tagNum: 3
+range: 0.47473
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0102888184627
+  w: 0.999947068706
+timeTag: 56
+tagNum: 4
+range: 1.4081
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0241736450082
+  w: 0.999707774746
+timeTag: 58
+tagNum: 4
+range: 1.4081
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0241736450082
+  w: 0.999707774746
+timeTag: 60
+tagNum: 4
+range: 1.1471
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0593650753979
+  w: 0.998236338661
+timeTag: 62
+tagNum: 4
+range: 0.88797
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.128642516074
+  w: 0.991691032055
+timeTag: 64
+tagNum: 1
+range: 2.4655
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0804728903649
+  w: 0.996756797778
+timeTag: 66
+tagNum: 1
+range: 2.2136
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0438449400701
+  w: 0.999038348228
+timeTag: 68
+tagNum: 1
+range: 1.9523
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0129546376257
+  w: 0.999916085161
+timeTag: 70
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 72
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 74
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 76
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 78
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 80
+tagNum: 5
+range: 0.89487
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.247481471456
+  w: 0.968892626293
+timeTag: 82
+tagNum: 0
+range: 2.0872
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.201407837309
+  w: 0.979507469635
+timeTag: 84
+tagNum: 0
+range: 2.075
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.163078377126
+  w: 0.986613117141
+timeTag: 86
+tagNum: 0
+range: 1.8149
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.162959982378
+  w: 0.986632679442
+timeTag: 88
+tagNum: 0
+range: 1.5474
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.17107435882
+  w: 0.98525812037
+timeTag: 90
+tagNum: 0
+range: 1.2404
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0757673193463
+  w: 0.997125525357
+timeTag: 92
+tagNum: 1
+range: 1.6783
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.186540841199
+  w: 0.982447207012
+timeTag: 94
+tagNum: 1
+range: 1.6783
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.186540841199
+  w: 0.982447207012
+timeTag: 96
+tagNum: 1
+range: 1.6124
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.19331523255
+  w: 0.981136698358
+timeTag: 98
+tagNum: 1
+range: 1.3221
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.224962938953
+  w: 0.974367320931
+timeTag: 100
+tagNum: 1
+range: 0.66063
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.255021559621
+  w: 0.966935367089
+timeTag: 102
+tagNum: 1
+range: 0.66063
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.255021559621
+  w: 0.966935367089
+timeTag: 104
+tagNum: 2
+range: 1.5853
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.224675490809
+  w: 0.974433642599
+timeTag: 106
+tagNum: 2
+range: 1.5853
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.224675490809
+  w: 0.974433642599
+timeTag: 108
+tagNum: 2
+range: 1.5853
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.224675490809
+  w: 0.974433642599
+timeTag: 110
+tagNum: 2
+range: 1.4945
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.238193121774
+  w: 0.971217811173
+timeTag: 112
+tagNum: 2
+range: 0.6817
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.252380879023
+  w: 0.967627971848
+timeTag: 114
+tagNum: 2
+range: 0.6817
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.252380879023
+  w: 0.967627971848
+timeTag: 116
+tagNum: 2
+range: 0.6817
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.252380879023
+  w: 0.967627971848
+timeTag: 118
+tagNum: 3
+range: 2.0171
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.244549443428
+  w: 0.96963682362
+timeTag: 120
+tagNum: 3
+range: 1.9894
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.180082183491
+  w: 0.98365156798
+timeTag: 122
+tagNum: 3
+range: 1.7308
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.182245779396
+  w: 0.98325300706
+timeTag: 124
+tagNum: 3
+range: 1.4651
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.180052673863
+  w: 0.983656970003
+timeTag: 126
+tagNum: 3
+range: 1.175
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.102459876693
+  w: 0.994737137976
+timeTag: 128
+tagNum: 3
+range: 0.93844
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.120759553584
+  w: 0.992681786988
+timeTag: 130
+tagNum: 3
+range: 0.67055
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0894154214769
+  w: 0.995994418861
+timeTag: 132
+tagNum: 4
+range: 1.5084
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0660069745887
+  w: 0.997819161625
+timeTag: 134
+tagNum: 4
+range: 1.5084
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0660069745887
+  w: 0.997819161625
+timeTag: 136
+tagNum: 4
+range: 1.5084
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0660069745887
+  w: 0.997819161625
+timeTag: 138
+tagNum: 4
+range: 1.2062
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.0638415532973
+  w: 0.997960047333
+timeTag: 140
+tagNum: 4
+range: 0.75176
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.234097334928
+  w: 0.972213164784
+timeTag: 142
+tagNum: 4
+range: 0.75176
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.234097334928
+  w: 0.972213164784
+timeTag: 144
+tagNum: 4
+range: 0.75176
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.234097334928
+  w: 0.972213164784
+timeTag: 146
+tagNum: 4
+range: 0.75176
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.234097334928
+  w: 0.972213164784
+timeTag: 148
+tagNum: 5
+range: 1.5033
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.250861392685
+  w: 0.968023017113
+timeTag: 150
+tagNum: 5
+range: 1.5033
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.250861392685
+  w: 0.968023017113
+timeTag: 152
+tagNum: 5
+range: 1.5033
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.250861392685
+  w: 0.968023017113
+timeTag: 154
+tagNum: 5
+range: 0.9907
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.242629084406
+  w: 0.97011913052
+timeTag: 156
+tagNum: 5
+range: 0.96313
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.239222478644
+  w: 0.970964780881
+timeTag: 158
+tagNum: 5
+range: 0.57312
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.223155101558
+  w: 0.974782950532
+timeTag: 160
+tagNum: 0
+range: 2.2289
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.124704499259
+  w: 0.992193926541
+timeTag: 162
+tagNum: 5
+range: 0.28722
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.0351842366798
+  w: 0.999380843067
+timeTag: 164
+tagNum: 5
+range: 0.53135
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -2.53704999973e-05
+  w: 0.999999999678
+timeTag: 166
+tagNum: 0
+range: 1.9121
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.258505696938
+  w: 0.966009733207
+timeTag: 168
+tagNum: 0
+range: 1.9121
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.258505696938
+  w: 0.966009733207
+timeTag: 170
+tagNum: 0
+range: 1.9121
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.258505696938
+  w: 0.966009733207
+timeTag: 172
+tagNum: 0
+range: 2.1124
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.241663695926
+  w: 0.970360066198
+timeTag: 174
+tagNum: 0
+range: 2.1124
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.241663695926
+  w: 0.970360066198
+timeTag: 176
+tagNum: 0
+range: 2.1124
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: -0.241663695926
+  w: 0.970360066198
+timeTag: 178
+tagNum: 1
+range: 2.0036
+bearing: 
+  x: 0.0
+  y: 0.0
+  z: 0.192648014952
+  w: 0.981267925867

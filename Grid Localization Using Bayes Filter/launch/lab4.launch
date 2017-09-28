@@ -1,0 +1,6 @@
+<launch>
+	<node name="grid" pkg="lab4" type="gridloc.py" />
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find lab4)/data/lab4.rviz"/>
+	
+	      
+</launch>
